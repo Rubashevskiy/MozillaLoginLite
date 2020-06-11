@@ -12,6 +12,7 @@
 // Стандартные библиотеки
 #include <iostream>
 // Своя для работы с парсингом командной строки в объектном режиме
+// https://github.com/Rubashevskiy/CmdLineParserLite
 #include "../src/CmdLineParserLite/cmdlineparserlite.hpp"
 // Своя для работы с сохраненными логинами семейства Mozilla
 #include "../src/MozillaLoginLite/mozillaloginlite.hpp"
