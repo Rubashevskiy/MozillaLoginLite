@@ -339,7 +339,7 @@ int main(int argc, char **argv) {
   // В переменной среды окружения(LD_LIBRARY_PATH) должен быть путь к библиотекам
   {
     char* c_ld_path = getenv("LD_LIBRARY_PATH");
-    std::string ld_lib_path = (c_ld_path == NULL) ? ("") : (ld_lib_path);
+    std::string ld_lib_path = (c_ld_path == NULL) ? ("") : (c_ld_path);
     if (std::string::npos == ld_lib_path.find(cmd.lib)) {
       std::cerr << "Ошибка: Не указан путь к библиотекам NSS в переменных окружения(LD_LIBRARY_PATH)" << std::endl;
       std::cerr << "Для получения справки введите -h или --help" << std::endl;
