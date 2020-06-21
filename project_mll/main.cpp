@@ -148,7 +148,7 @@ Mozilla Login Lite(mll) - приложение для автоматизации
   fputs (("\
 Автор:                    Юрий Рубашевский (r9182230628@gmail.com)\n\
 Лицензия:                 GPLv3+\n\
-Автору на 'печеньки':     http://yasobe.ru/na/avtoru_na_pe4enki\n\
+Автору на 'печеньки':     http://yasobe.ru/na/prilozhenie_mozilla_login_lite\n\
 \n"), stdout);
 }
 

@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.0)
 project(mll)
 set(CMAKE_CXX_STANDARD 17)
-set(SRC "../mll/main.cpp")
+set(SRC "../project_mll/main.cpp")
 list(APPEND SRC "../src/CmdLineParserLite/cmdlineparserlite.cpp")
 list(APPEND SRC "../src/MozillaLoginLite/mozillaloginlite.cpp")
 list(APPEND SRC "../src/NSSCryptoLite/nsscryptolite.cpp")

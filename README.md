@@ -54,7 +54,7 @@
   Класическая сборка (g++)  
    1. Перейти в консоли корневой каталог проекта.  
    2. Создать и перейти в каталог например "build", что бы не "захламлять" основной проект  
-   3. Выполнить "g++ ../mll/main.cpp ../src/CmdLineParserLite/cmdlineparserlite.cpp ../src/MozillaLoginLite/mozillaloginlite.cpp ../src/NSSCryptoLite/nsscryptolite.cpp -ldl -o mll -std=c++17"  
+   3. Выполнить "g++ ../project_mll/main.cpp ../src/CmdLineParserLite/cmdlineparserlite.cpp ../src/MozillaLoginLite/mozillaloginlite.cpp ../src/NSSCryptoLite/nsscryptolite.cpp -ldl -o mll -std=c++17"  
 
 Автор:                    Юрий Рубашевский (r9182230628@gmail.com)  
-Автору на 'печеньки':     <http://yasobe.ru/na/prilozhenie_mozilla_login_lite>
+Автору на 'печеньки':     http://yasobe.ru/na/avtoru_na_pe4enki>
