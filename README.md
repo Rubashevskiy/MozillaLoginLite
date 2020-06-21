@@ -57,4 +57,4 @@
    3. Выполнить "g++ ../project_mll/main.cpp ../src/CmdLineParserLite/cmdlineparserlite.cpp ../src/MozillaLoginLite/mozillaloginlite.cpp ../src/NSSCryptoLite/nsscryptolite.cpp -ldl -o mll -std=c++17"  
 
 Автор:                    Юрий Рубашевский (r9182230628@gmail.com)  
-Автору на 'печеньки':     http://yasobe.ru/na/avtoru_na_pe4enki>
+Автору на 'печеньки':     <http://yasobe.ru/na/avtoru_na_pe4enki>
